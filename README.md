@@ -1,10 +1,18 @@
 <!-- Pankaj Jhajhria | GitHub profile README -->
 <p align="center">
-  <img src="assets/profile/hero-banner.svg" alt="Pankaj Jhajhria — AI and Data Science, Machine Learning, Computer Vision" width="100%">
+  <img src="assets/profile/hero-loop.gif" alt="Animated Pankaj Jhajhria title with directional data packets flowing through a neural-network diagram" width="100%">
 </p>
 
 <p align="center">
   <b>Engineering student building and evaluating practical machine-learning systems, from recommendation engines to multimodal segmentation.</b>
+</p>
+
+<p align="center">
+  <img src="assets/profile/focus-cycle.gif" alt="Engineering interests: Machine Learning Systems, Computer Vision, Multimodal AI, Python and Data Engineering, Model Evaluation, and Software Engineering" width="90%">
+</p>
+
+<p align="center">
+  <sub>Machine Learning Systems · Computer Vision · Multimodal AI · Python &amp; Data Engineering · Model Evaluation · Software Engineering</sub>
 </p>
 
 <p align="center">
@@ -33,7 +41,7 @@
 | **Applications** | [FilmSense (live)](https://filmsense.streamlit.app/) · [Lost & Found (live)](https://lostfoundd.freedev.app/) |
 | **Learning resources** | [Advanced_Python](https://github.com/Pankaj-Jhajhria/Advanced_Python) · [Git-Crash-Course](https://github.com/Pankaj-Jhajhria/Git-Crash-Course) |
 
-<p align="center"><img src="assets/profile/divider.svg" alt="" width="100%"></p>
+<p align="center"><img src="assets/profile/flow-divider.gif" alt="" width="100%"></p>
 
 ## About
 
@@ -169,7 +177,7 @@ Source code: not linked.
 |:---|:---|
 | Python scripts and notebooks covering APIs, file handling, OOP, NumPy and pandas, with datasets. | Git and GitHub notes with a command reference and a cheat sheet. |
 
-<p align="center"><img src="assets/profile/divider.svg" alt="" width="100%"></p>
+<p align="center"><img src="assets/profile/flow-divider.gif" alt="" width="100%"></p>
 
 ## Technical Skills
 
